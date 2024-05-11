@@ -52,3 +52,105 @@
 //BigInt
 //Symbol
 
+
+
+/*operators
+use to perform some operation on Data
+
+arthimetic operators 
+
++
+*
+-
+/
+*/
+ // special operator
+//  % modulus operator
+//  ** exponentiation
+// increment ++
+//  -- decrement
+
+// a++ post incerement
+// ++a pre incerment
+
+
+// assignment operator
+// =, +=, -=, %=, *=, **=
+ // comparison operators are always works in true or false
+ // equal to ==
+//  != not equal to
+//  === equal to and type
+// !== not equal to and type
+// >, >=, <, <=
+
+
+// logical operator are also in true and false
+
+// && logical and 
+// || logical or
+// ! logical not
+
+
+//  conditional statment 
+
+/*let age = 46;
+ if ( age >= 18){ 
+    console.log(" you can vote");
+ }
+  if ( age < 18){
+    console.log( " you can't vote");
+  }*/
+
+ // else if statement
+
+  /* let mode =" silver";
+ let color;
+
+ if ( mode === " dark"){
+    color = " black";
+ }
+ else if ( mode === " blue")
+{
+    color = " blue";
+}
+   else if (mode === " pink")
+    {color = " pink";}
+else {
+    color = " white";
+}
+
+console.log(color);*/
+
+/*prompt(" enter a number:");
+ 
+if ( Num % 5 === 0
+){ 
+    console.log( Num, " is a multiple of 5");
+
+}
+ else {
+    console.log ( Num, " is not a multiple of 5");
+ }*/
+  
+/* let score =" 89"
+  let grade;
+   if ( score >= 90 && score <= 100){
+    grade = "A";
+   }
+   else if ( score >= 80 && score <== 70)
+    {
+        grade = "B";
+    }
+     else if ( score >= 60 && score<== 50){
+        grade = "C";
+    
+     }
+     else if ( score>= 40 && score <= 40){
+        grade =      " D";
+     }
+     else if ( score>= 40 && score <== 0){
+        grade= " F"
+     }
+      console.log(" according to score:" , grade) */
+      
+      
